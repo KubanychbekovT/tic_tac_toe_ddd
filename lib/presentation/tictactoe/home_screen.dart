@@ -7,7 +7,7 @@ import 'package:tictactoe_ddd/presentation/tictactoe/widgets/scoreboard.dart';
 import '../../infrastructure/core/utils/config.dart';
 import '../../infrastructure/tictactoe/controllers/tic_tac_toe.dart';
 import 'constants/constant.dart';
-import 'layout/layout.dart';
+import 'layout/tictactoe_layout_page.dart';
 
 
 class HomeScreen extends StatefulWidget {
